@@ -1,0 +1,14 @@
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\bin\Debug\netcoreapp2.2\capacitacion.sender.api.deps.json
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\bin\Debug\netcoreapp2.2\capacitacion.sender.api.runtimeconfig.json
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\bin\Debug\netcoreapp2.2\capacitacion.sender.api.runtimeconfig.dev.json
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\bin\Debug\netcoreapp2.2\capacitacion.sender.api.dll
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\bin\Debug\netcoreapp2.2\capacitacion.sender.api.pdb
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.csprojAssemblyReference.cache
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.csproj.CoreCompileInputs.cache
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.RazorAssemblyInfo.cache
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.RazorAssemblyInfo.cs
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.AssemblyInfoInputs.cache
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.AssemblyInfo.cs
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.RazorTargetAssemblyInfo.cache
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.dll
+d:\VisualStudioCode\capacitacion\capacitacion.sender.api\obj\Debug\netcoreapp2.2\capacitacion.sender.api.pdb
